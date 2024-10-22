@@ -1,7 +1,7 @@
 // Copyright EMC2
 
 
-#include "AuraCharacterBase.h"
+#include "Character/AuraCharacterBase.h"
 
 AAuraCharacterBase::AAuraCharacterBase()
 {
